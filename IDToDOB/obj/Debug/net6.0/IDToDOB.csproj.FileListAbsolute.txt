@@ -1,0 +1,15 @@
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\bin\Debug\net6.0\IDToDOB.exe
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\bin\Debug\net6.0\IDToDOB.deps.json
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\bin\Debug\net6.0\IDToDOB.runtimeconfig.json
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\bin\Debug\net6.0\IDToDOB.dll
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\bin\Debug\net6.0\IDToDOB.pdb
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.dll
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\refint\IDToDOB.dll
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.pdb
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\IDToDOB.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\Personal Projects\ID_to_DOB\IDToDOB\obj\Debug\net6.0\ref\IDToDOB.dll
